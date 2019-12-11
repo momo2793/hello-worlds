@@ -14,7 +14,7 @@
                 <array>
                     <dict>
                         <key>Name</key>
-                        <string>mmsproxy.mobile.bm</string>
+                        <string>mobile.bm</string>
                         
                     </dict>
                       
@@ -22,7 +22,7 @@
                 <key>AttachAPN</key>
                 <dict>
                     <key>Name</key>
-                    <string>mmsproxy.mobile.bm</string>
+                    <string>mobile.bm</string>
             
                 </dict>
                
