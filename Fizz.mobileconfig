@@ -19,7 +19,7 @@
                     </dict>
                     <dict>
                         <key> MMS Proxy</key>
-                        <string>mmsproxy.mobile.bm:80</string>
+                        <string>mmsproxy.mobile.bm</string>
                     </dict>    
                 </array>
                 <key>AttachAPN</key>
@@ -30,7 +30,7 @@
                 </dict>
                 <dict>
                         <key> MMS Proxy</key>
-                        <string>mmsproxy.mobile.bm:80</string>
+                        <string>mmsproxy.mobile.bm</string>
                     </dict>    
                 <key>PayloadDescription</key>
                 <string>Configures cellular data settings</string>
