@@ -14,24 +14,18 @@
                 <array>
                     <dict>
                         <key>Name</key>
-                        <string>mobile.bm</string>
+                        <string>mmsproxy.mobile.bm</string>
                         
                     </dict>
-                    <dict>
-                        <key> MMS Proxy</key>
-                        <string>mmsproxy.mobile.bm</string>
-                    </dict>    
+                      
                 </array>
                 <key>AttachAPN</key>
                 <dict>
                     <key>Name</key>
-                    <string>mobile.bm</string>
+                    <string>mmsproxy.mobile.bm</string>
             
                 </dict>
-                <dict>
-                        <key> MMS Proxy</key>
-                        <string>mmsproxy.mobile.bm</string>
-                    </dict>    
+               
                 <key>PayloadDescription</key>
                 <string>Configures cellular data settings</string>
                 <key>PayloadDisplayName</key>
